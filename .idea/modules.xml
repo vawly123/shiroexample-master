@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirodemo1/shirodemo1.iml" filepath="$PROJECT_DIR$/shirodemo1/shirodemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirodemo2/shirodemo2.iml" filepath="$PROJECT_DIR$/shirodemo2/shirodemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirodemo3/shirodemo3.iml" filepath="$PROJECT_DIR$/shirodemo3/shirodemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirodemo4/shirodemo4.iml" filepath="$PROJECT_DIR$/shirodemo4/shirodemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiroexample.iml" filepath="$PROJECT_DIR$/shiroexample.iml" />
+    </modules>
+  </component>
+</project>
